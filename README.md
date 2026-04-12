@@ -264,7 +264,7 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniieee_p&hide_border=true&title_color=06b6d4&text_color=7dd3fc&bg_color=0d2157&border_radius=10&layout=compact)](https://wakatime.com/@aniieee_p)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniieee-p&hide_border=true&title_color=06b6d4&text_color=e0f7ff&bg_color=0d2157&border_radius=10&layout=compact)](https://wakatime.com/@aniieee-p)
 
 </div>
 
