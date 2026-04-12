@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=E2FF00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+CareerNest+%F0%9F%9A%80;Open+Source+%7C+GirlScript+%7C+SSOC%274;Turning+ideas+into+shipped+products)](https://github.com/aniieee-p)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=E2FF00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Always+building+something+new+%F0%9F%9A%80;Open+Source+%7C+GirlScript+%7C+SSOC%274;Turning+ideas+into+shipped+products)](https://github.com/aniieee-p)
 
 </div>
 
@@ -40,7 +40,7 @@ const anisha = {
   university : "GLA University, Mathura",
   batch      : "B.Tech CSE  [2023 → 2027]",
   stack      : ["React", "Node", "Express", "MongoDB"],
-  currently  : "Building CareerNest 🚀",
+  currently  : "Building full-stack products 🚀",
   learning   : ["System Design", "DSA", "TypeScript"],
   fun_fact   : "I process satellite imagery 🛰️"
 }
