@@ -4,7 +4,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&text=Anisha%20Patel&fontColor=e2ff00&fontSize=78&fontAlignY=40&animation=fadeIn&desc=I%20build%20things%20that%20work%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=62&descSize=17&descColor=c8c8ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0:0f0c29,40:1a1a4e,80:302b63,100:0d0d2b&text=Anisha%20Patel&fontColor=e2ff00&fontSize=78&fontAlignY=45&animation=fadeIn&desc=I%20build%20things%20that%20work%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=65&descSize=17&descColor=c8c8ff&rotate=-6"/>
 </div>
 
 <br/>
@@ -228,5 +228,5 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&section=footer&text=Let's%20build%20something%20awesome&fontColor=e2ff00&fontSize=22&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&color=0:0d0d2b,40:1a1a4e,80:302b63,100:0f0c29&section=footer&text=Let's%20build%20something%20awesome&fontColor=e2ff00&fontSize=22&fontAlignY=50&animation=fadeIn&rotate=6&reversal=true"/>
 </div>
