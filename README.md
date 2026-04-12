@@ -134,10 +134,11 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ![Redux](https://img.shields.io/badge/Redux-2d1a5c?style=for-the-badge&logo=redux&logoColor=a8f5f0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3b3000?style=for-the-badge&logo=javascript&logoColor=a8f5f0)
 ![HTML5](https://img.shields.io/badge/HTML5-3b1200?style=for-the-badge&logo=html5&logoColor=a8f5f0)
+![CSS3](https://img.shields.io/badge/CSS3-0d1a3b?style=for-the-badge&logo=css3&logoColor=a8f5f0)
 
 **— Backend & DB —**
 
-![NodeJS-b8f0ec?style=for-the-badge&logo=node.js&logoColor=a8f5f0)
+![Node.js](https://img.shields.io/badge/Node.js-0d3b38?style=for-the-badge&logo=node.js&logoColor=a8f5f0)
 ![Express.js](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=a8f5f0)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f5c56?style=for-the-badge&logo=mongodb&logoColor=a8f5f0)
 ![MySQL](https://img.shields.io/badge/MySQL-0d3b38?style=for-the-badge&logo=mysql&logoColor=a8f5f0)
@@ -145,16 +146,19 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 **— Languages —**
 
 ![Python](https://img.shields.io/badge/Python-0d3b38?style=for-the-badge&logo=python&logoColor=a8f5f0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d2244?style=for-the-badge&logo=typescript&logoColor=a8f5f0)
 ![Java](https://img.shields.io/badge/Java-3b1200?style=for-the-badge&logo=openjdk&logoColor=a8f5f0)
 ![C](https://img.shields.io/badge/C-0d2e3b?style=for-the-badge&logo=c&logoColor=a8f5f0)
 
-**— Tools —**
+**— Tools & Deployment —**
 
 ![Git](https://img.shields.io/badge/Git-3b1200?style=for-the-badge&logo=git&logoColor=a8f5f0)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1030?style=for-the-badge&logo=github&logoColor=a8f5f0)
 ![Postman](https://img.shields.io/badge/Postman-3b1a00?style=for-the-badge&logo=postman&logoColor=a8f5f0)
 ![Netlify](https://img.shields.io/badge/Netlify-0f5c56?style=for-the-badge&logo=netlify&logoColor=a8f5f0)
+![Render](https://img.shields.io/badge/Render-0d3b38?style=for-the-badge&logo=render&logoColor=a8f5f0)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1a3b?style=for-the-badge&logo=visual-studio-code&logoColor=a8f5f0)
+![Figma](https://img.shields.io/badge/Figma-1a0d2e?style=for-the-badge&logo=figma&logoColor=a8f5f0)
 
 </div>
 
@@ -173,6 +177,24 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 | 2025 | 🌐 Campus Ambassador | GirlScript Summer of Code |
 
 </div>
+
+---
+
+## 🌐 Open Source Contributions
+
+> Contributing beyond code — reviewing PRs, writing docs, opening meaningful issues.
+
+<div align="center">
+
+| Program | Role | Status |
+|---------|------|--------|
+| 🌸 GirlScript Summer of Code | Campus Ambassador + Contributor | ✅ Active |
+| 🚀 SSOC'4 by Reskill | Open Source Contributor | ✅ Active |
+| 👩‍💻 Girls Leading Tech | Community Member | ✅ Active |
+
+</div>
+
+*I don't just fix bugs — I improve docs, review code, and help fellow contributors navigate projects.*
 
 ---
 
@@ -223,6 +245,35 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/aniieee-p/aniieee-p/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+## 💭 Quote I Live By
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+I'm open to connecting on **MERN collabs · open source projects · hackathon teams · research work**
+
+Got an idea? Let's build it.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0f5c56?style=for-the-badge&logo=linkedin&logoColor=a8f5f0)](https://www.linkedin.com/in/anisha-patel-642539272/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Drop_a_Mail-1a7a72?style=for-the-badge&logo=gmail&logoColor=a8f5f0)](mailto:anieesha47@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0d3b38?style=for-the-badge&logo=github&logoColor=a8f5f0)](https://github.com/aniieee-p)
+
 </div>
 
 ---
