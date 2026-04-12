@@ -4,7 +4,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0:e0f7f5,40:a8edea,80:7dd8d0,100:e0f7f5&text=Anisha%20Patel&fontColor=1a5f5a&fontSize=78&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=65&descSize=17&descColor=2a7a74&rotate=-6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0:0d3b38,40:0f5c56,80:1a7a72,100:0d3b38&text=Anisha%20Patel&fontColor=a8f5f0&fontSize=78&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=65&descSize=17&descColor=7dd8d0&rotate=-6"/>
 </div>
 
 <br/>
@@ -19,13 +19,13 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aniieee-p&color=40e0d0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aniieee-p)
+[![Profile Views](https://komarev.com/ghpvc/?username=aniieee-p&color=1a7a72&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aniieee-p)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-40e0d0?style=for-the-badge&logo=linkedin&logoColor=1a5f5a)](https://www.linkedin.com/in/anisha-patel-642539272/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f5c56?style=for-the-badge&logo=linkedin&logoColor=a8f5f0)](https://www.linkedin.com/in/anisha-patel-642539272/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/EMAIL-a8edea?style=for-the-badge&logo=gmail&logoColor=1a5f5a)](mailto:anieesha47@gmail.com)
+[![Gmail](https://img.shields.io/badge/EMAIL-1a7a72?style=for-the-badge&logo=gmail&logoColor=a8f5f0)](mailto:anieesha47@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-d0f5f3?style=for-the-badge&logo=github&logoColor=1a5f5a)](https://github.com/aniieee-p)
+[![GitHub](https://img.shields.io/badge/GITHUB-0f5c56?style=for-the-badge&logo=github&logoColor=a8f5f0)](https://github.com/aniieee-p)
 
 </div>
 
@@ -62,18 +62,18 @@ const anisha = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/★_FLAGSHIP-d0f5f3?style=for-the-badge&labelColor=40e0d0&color=d0f5f3&logoColor=1a5f5a"/>
+<img src="https://img.shields.io/badge/★_FLAGSHIP-d0f5f3?style=for-the-badge&labelColor=0f5c56&color=0f5c56&logoColor=a8f5f0"/>
 
 ### CareerNest
 > Full-stack job portal · MERN
 
 Role-based platform for **recruiters** and **job seekers** — not a tutorial, a real product.
 
-![React](https://img.shields.io/badge/React-d0f5f3?style=flat-square&logo=react&logoColor=1a5f5a)
-![Vite](https://img.shields.io/badge/Vite-d4c5f9?style=flat-square&logo=vite&logoColor=1a5f5a)
-![MongoDB](https://img.shields.io/badge/MongoDB-a8edea?style=flat-square&logo=mongodb&logoColor=1a5f5a)
-![Redux](https://img.shields.io/badge/Redux-e0d4f9?style=flat-square&logo=redux&logoColor=1a5f5a)
-![Tailwind](https://img.shields.io/badge/Tailwind-b8f0ec?style=flat-square&logo=tailwindcss&logoColor=1a5f5a)
+![React](https://img.shields.io/badge/React-0d3b38?style=flat-square&logo=react&logoColor=a8f5f0)
+![Vite](https://img.shields.io/badge/Vite-1a3a5c?style=flat-square&logo=vite&logoColor=a8f5f0)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f5c56?style=flat-square&logo=mongodb&logoColor=a8f5f0)
+![Redux](https://img.shields.io/badge/Redux-2d1a5c?style=flat-square&logo=redux&logoColor=a8f5f0)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a7a72?style=flat-square&logo=tailwindcss&logoColor=a8f5f0)
 
 **What makes it real:**
 - 🔐 JWT auth · role-based dashboards
@@ -81,40 +81,40 @@ Role-based platform for **recruiters** and **job seekers** — not a tutorial, a
 - ⚙️ Custom hooks · redux-persist
 - ☁️ Live on Netlify
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-40e0d0?style=flat-square&logo=github&logoColor=1a5f5a)](https://github.com/aniieee-p/CareerNest)
+[![View Repo](https://img.shields.io/badge/→_View_Repo-1a7a72?style=flat-square&logo=github&logoColor=a8f5f0)](https://github.com/aniieee-p/CareerNest)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/OPEN_SOURCE-a8edea?style=for-the-badge&labelColor=40e0d0&color=a8edea"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-a8edea?style=for-the-badge&labelColor=0f5c56&color=a8edea"/>
 
 ### Pokémon Explorer
 > Filter app · Vanilla JS
 
 Pokédex with type/XP filtering, search, and load-more — zero frameworks, pure DOM mastery.
 
-![HTML5](https://img.shields.io/badge/HTML5-ffd6c5?style=flat-square&logo=html5&logoColor=1a5f5a)
-![CSS3](https://img.shields.io/badge/CSS3-c5d8ff?style=flat-square&logo=css3&logoColor=1a5f5a)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff3c5?style=flat-square&logo=javascript&logoColor=1a5f5a)
+![HTML5](https://img.shields.io/badge/HTML5-3b1200?style=flat-square&logo=html5&logoColor=a8f5f0)
+![CSS3](https://img.shields.io/badge/CSS3-0d1a3b?style=flat-square&logo=css3&logoColor=a8f5f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-3b3000?style=flat-square&logo=javascript&logoColor=a8f5f0)
 
 **Highlights:**
 - 🔍 Multi-filter: type + XP + search
 - 📦 Load-more without reload
 - 🎯 Responsive, clean UI
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-7dd8d0?style=flat-square&logo=github&logoColor=1a5f5a)](https://github.com/aniieee-p/pokemon-generator)
+[![View Repo](https://img.shields.io/badge/→_View_Repo-0f5c56?style=flat-square&logo=github&logoColor=a8f5f0)](https://github.com/aniieee-p/pokemon-generator)
 
 <br/>
 
-<img src="https://img.shields.io/badge/RESEARCH-d0f5f3?style=for-the-badge&labelColor=7dd8d0&color=d0f5f3"/>
+<img src="https://img.shields.io/badge/RESEARCH-d0f5f3?style=for-the-badge&labelColor=0f5c56&color=0f5c56"/>
 
 ### SAR Image Enhancer
 > Python · Satellite Imagery
 
 Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
-![Python](https://img.shields.io/badge/Python-d0f5f3?style=flat-square&logo=python&logoColor=1a5f5a)
-![NumPy](https://img.shields.io/badge/NumPy-d0f5f3?style=flat-square&logo=numpy&logoColor=1a5f5a)
+![Python](https://img.shields.io/badge/Python-0d3b38?style=flat-square&logo=python&logoColor=a8f5f0)
+![NumPy](https://img.shields.io/badge/NumPy-0d3b38?style=flat-square&logo=numpy&logoColor=a8f5f0)
 
 </td>
 </tr>
@@ -128,33 +128,33 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 **— Frontend —**
 
-![React](https://img.shields.io/badge/React-d0f5f3?style=for-the-badge&logo=react&logoColor=1a5f5a)
-![Vite](https://img.shields.io/badge/Vite-d4c5f9?style=for-the-badge&logo=vite&logoColor=1a5f5a)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-b8f0ec?style=for-the-badge&logo=tailwind-css&logoColor=1a5f5a)
-![Redux](https://img.shields.io/badge/Redux-e0d4f9?style=for-the-badge&logo=redux&logoColor=1a5f5a)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff3c5?style=for-the-badge&logo=javascript&logoColor=1a5f5a)
-![HTML5](https://img.shields.io/badge/HTML5-ffd6c5?style=for-the-badge&logo=html5&logoColor=1a5f5a)
+![React](https://img.shields.io/badge/React-0d3b38?style=for-the-badge&logo=react&logoColor=a8f5f0)
+![Vite](https://img.shields.io/badge/Vite-1a3a5c?style=for-the-badge&logo=vite&logoColor=a8f5f0)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a7a72?style=for-the-badge&logo=tailwind-css&logoColor=a8f5f0)
+![Redux](https://img.shields.io/badge/Redux-2d1a5c?style=for-the-badge&logo=redux&logoColor=a8f5f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-3b3000?style=for-the-badge&logo=javascript&logoColor=a8f5f0)
+![HTML5](https://img.shields.io/badge/HTML5-3b1200?style=for-the-badge&logo=html5&logoColor=a8f5f0)
 
 **— Backend & DB —**
 
-![NodeJS-b8f0ec?style=for-the-badge&logo=node.js&logoColor=1a5f5a)
-![Express.js](https://img.shields.io/badge/Express-e8e8e8?style=for-the-badge&logo=express&logoColor=1a5f5a)
-![MongoDB](https://img.shields.io/badge/MongoDB-a8edea?style=for-the-badge&logo=mongodb&logoColor=1a5f5a)
-![MySQL](https://img.shields.io/badge/MySQL-d0f5f3?style=for-the-badge&logo=mysql&logoColor=1a5f5a)
+![NodeJS-b8f0ec?style=for-the-badge&logo=node.js&logoColor=a8f5f0)
+![Express.js](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=a8f5f0)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f5c56?style=for-the-badge&logo=mongodb&logoColor=a8f5f0)
+![MySQL](https://img.shields.io/badge/MySQL-0d3b38?style=for-the-badge&logo=mysql&logoColor=a8f5f0)
 
 **— Languages —**
 
-![Python](https://img.shields.io/badge/Python-d0f5f3?style=for-the-badge&logo=python&logoColor=1a5f5a)
-![Java](https://img.shields.io/badge/Java-ffd6c5?style=for-the-badge&logo=openjdk&logoColor=1a5f5a)
-![C](https://img.shields.io/badge/C-d4f0ff?style=for-the-badge&logo=c&logoColor=1a5f5a)
+![Python](https://img.shields.io/badge/Python-0d3b38?style=for-the-badge&logo=python&logoColor=a8f5f0)
+![Java](https://img.shields.io/badge/Java-3b1200?style=for-the-badge&logo=openjdk&logoColor=a8f5f0)
+![C](https://img.shields.io/badge/C-0d2e3b?style=for-the-badge&logo=c&logoColor=a8f5f0)
 
 **— Tools —**
 
-![Git](https://img.shields.io/badge/Git-ffd6c5?style=for-the-badge&logo=git&logoColor=1a5f5a)
-![GitHub](https://img.shields.io/badge/GitHub-e8e0f5?style=for-the-badge&logo=github&logoColor=1a5f5a)
-![Postman](https://img.shields.io/badge/Postman-ffe4c5?style=for-the-badge&logo=postman&logoColor=1a5f5a)
-![Netlify](https://img.shields.io/badge/Netlify-a8edea?style=for-the-badge&logo=netlify&logoColor=1a5f5a)
-![VS Code](https://img.shields.io/badge/VS%20Code-c5dcff?style=for-the-badge&logo=visual-studio-code&logoColor=1a5f5a)
+![Git](https://img.shields.io/badge/Git-3b1200?style=for-the-badge&logo=git&logoColor=a8f5f0)
+![GitHub](https://img.shields.io/badge/GitHub-1a1030?style=for-the-badge&logo=github&logoColor=a8f5f0)
+![Postman](https://img.shields.io/badge/Postman-3b1a00?style=for-the-badge&logo=postman&logoColor=a8f5f0)
+![Netlify](https://img.shields.io/badge/Netlify-0f5c56?style=for-the-badge&logo=netlify&logoColor=a8f5f0)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1a3b?style=for-the-badge&logo=visual-studio-code&logoColor=a8f5f0)
 
 </div>
 
@@ -180,9 +180,9 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-![](https://img.shields.io/badge/✓_Data_Analytics_1_%26_2-ffecd2?style=for-the-badge&logoColor=1a5f5a&labelColor=fcb69f&color=ffecd2)
-![](https://img.shields.io/badge/✓_IIT_Roorkee_Cognizance-a8edea?style=for-the-badge&color=a8edea&labelColor=40e0d0)
-![](https://img.shields.io/badge/☁️_Google_Cloud_Skill_Badges-d4c5f9?style=for-the-badge&logo=googlecloud&logoColor=1a5f5a&color=d4c5f9&labelColor=b8a4e8)
+![](https://img.shields.io/badge/✓_Data_Analytics_1_%26_2-ffecd2?style=for-the-badge&logoColor=a8f5f0&labelColor=0f5c56&color=ffecd2)
+![](https://img.shields.io/badge/✓_IIT_Roorkee_Cognizance-a8edea?style=for-the-badge&color=1a7a72&labelColor=0f5c56)
+![](https://img.shields.io/badge/☁️_Google_Cloud_Skill_Badges-d4c5f9?style=for-the-badge&logo=googlecloud&logoColor=a8f5f0&color=d4c5f9&labelColor=0f5c56)
 
 </div>
 
@@ -192,13 +192,13 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=2ab5ad&icon_color=40e0d0&text_color=2a7a74&bg_color=f0fffe"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=fff9f5&ring=40e0d0&fire=2ab5ad&currStreakLabel=40e0d0&sideLabels=2a7a74&dates=7ecac8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=40e0d0&icon_color=7dd8d0&text_color=a8f5f0&bg_color=0d2e2b"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0d2e2b&ring=40e0d0&fire=1a9e96&currStreakLabel=40e0d0&sideLabels=7dd8d0&dates=1a7a72"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=2ab5ad&text_color=2a7a74&bg_color=f0fffe"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=40e0d0&text_color=a8f5f0&bg_color=0d2e2b"/>
 </div>
 
 ---
@@ -206,7 +206,7 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=f0fffe&color=40e0d0&line=40e0d0&point=7dd8d0&hide_border=true&area=true&area_color=c5f5f2"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0d2e2b&color=40e0d0&line=40e0d0&point=7dd8d0&hide_border=true&area=true&area_color=0f5c56"/>
 </div>
 
 ---
@@ -228,5 +228,5 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&color=0:e0f7f5,40:7dd8d0,80:a8edea,100:e0f7f5&section=footer&text=Let's%20build%20something%20awesome&fontColor=1a5f5a&fontSize=22&fontAlignY=50&animation=fadeIn&rotate=6&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&color=0:0d3b38,40:1a7a72,80:0f5c56,100:0d3b38&section=footer&text=Let's%20build%20something%20awesome&fontColor=a8f5f0&fontSize=22&fontAlignY=50&animation=fadeIn&rotate=6&reversal=true"/>
 </div>
