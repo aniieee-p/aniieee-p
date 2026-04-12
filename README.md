@@ -253,8 +253,8 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> *"The greater he own, the better he flown"* 🫠🩵
+> — buoyancy · and a dev philosophy
 
 </div>
 
