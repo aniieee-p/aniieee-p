@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=40e0d0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Always+building+something+new+%F0%9F%9A%80;Open+Source+%7C+GirlScript+%7C+SSOC%274;Turning+ideas+into+shipped+products)](https://github.com/aniieee-p)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=43e8d8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Always+building+something+new+%F0%9F%9A%80;Open+Source+%7C+GirlScript+%7C+SSOC%274;Turning+ideas+into+shipped+products)](https://github.com/aniieee-p)
 
 </div>
 
@@ -192,13 +192,13 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=40e0d0&icon_color=7dd8d0&text_color=a8f5f0&bg_color=0d2e2b"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0d2e2b&ring=40e0d0&fire=1a9e96&currStreakLabel=40e0d0&sideLabels=7dd8d0&dates=1a7a72"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=43e8d8&icon_color=7dd8d0&text_color=a8f5f0&bg_color=0d2e2b"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0d2e2b&ring=43e8d8&fire=1a9e96&currStreakLabel=43e8d8&sideLabels=7dd8d0&dates=1a7a72"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=40e0d0&text_color=a8f5f0&bg_color=0d2e2b"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=43e8d8&text_color=a8f5f0&bg_color=0d2e2b"/>
 </div>
 
 ---
@@ -206,7 +206,7 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0d2e2b&color=40e0d0&line=40e0d0&point=7dd8d0&hide_border=true&area=true&area_color=0f5c56"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0d2e2b&color=43e8d8&line=43e8d8&point=7dd8d0&hide_border=true&area=true&area_color=0f5c56"/>
 </div>
 
 ---
