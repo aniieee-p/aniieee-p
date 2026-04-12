@@ -4,7 +4,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0f2e,30:0d2157,60:0a4a8a,85:0891b2,100:06b6d4&text=Anisha%20Patel&fontColor=e0f7ff&fontSize=78&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=65&descSize=17&descColor=7dd3fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0:050d1a,30:0a1f4a,60:0e4d8a,85:0891b2,100:06b6d4&text=Anisha%20Patel&fontColor=e0f7ff&fontSize=78&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=65&descSize=17&descColor=7dd3fc&rotate=-6"/>
 </div>
 
 <br/>
@@ -300,5 +300,5 @@ Got an idea? Let's build it. 🌊
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06b6d4,40:0891b2,80:0a4a8a,100:0a0f2e&section=footer&text=Let's%20build%20something%20awesome&fontColor=e0f7ff&fontSize=22&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&color=0:06b6d4,40:0891b2,80:0a4a8a,100:050d1a&section=footer&text=Let's%20build%20something%20awesome&fontColor=e0f7ff&fontSize=22&fontAlignY=50&animation=fadeIn&rotate=6&reversal=true"/>
 </div>
