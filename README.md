@@ -235,14 +235,18 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=06b6d4&icon_color=7dd3fc&text_color=7dd3fc&bg_color=0d2157&border_radius=10"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0d2157&ring=06b6d4&fire=0891b2&currStreakLabel=06b6d4&sideLabels=7dd3fc&dates=7dd3fc&stroke=0891b2&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=06b6d4&icon_color=7dd3fc&text_color=e0f7ff&bg_color=0d2157&border_radius=10&count_private=true" alt="Anisha's GitHub Stats" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&theme=tokyonight&hide_border=true&background=0d2157&ring=06b6d4&fire=0891b2&currStreakLabel=06b6d4&sideLabels=7dd3fc&dates=e0f7ff&border_radius=10" alt="Anisha's Streak" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=06b6d4&text_color=7dd3fc&bg_color=0d2157&border_radius=10"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=06b6d4&text_color=e0f7ff&bg_color=0d2157&border_radius=10" alt="Top Languages" />
+
 </div>
+
 
 ---
 
