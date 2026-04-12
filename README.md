@@ -1,163 +1,120 @@
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     ANISHA PATEL · GitHub Profile README
+     Vibe: Bold · Colorful · Editorial · No pink
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:001a0e,70:003320,100:000000&text=ANISHA%20PATEL&fontColor=00ff88&fontSize=75&fontAlignY=40&animation=fadeIn&desc=__%20Full-Stack%20Developer%20__%20MERN%20Engineer%20__%20Open%20Source%20__&descAlignY=62&descSize=15&descColor=44ff99&stroke=00ff88&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&text=Anisha%20Patel&fontColor=e2ff00&fontSize=78&fontAlignY=40&animation=fadeIn&desc=I%20build%20things%20that%20work%20%7C%20MERN%20%7C%20Open%20Source%20%7C%20GLA%20University&descAlignY=62&descSize=17&descColor=c8c8ff"/>
 </div>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   $ ./init_profile.sh --user="Anisha Patel"                             │
-│                                                                         │
-│   > Loading developer profile...                                        │
-│   > University    : GLA University, Mathura  [2023 → 2027]             │
-│   > Stack         : MERN · Python · DSA                                 │
-│   > Status        : Building · Contributing · Learning                  │
-│   > Mission       : Ship real products. Solve real problems.            │
-│                                                                         │
-│   [██████████████████████████████████████] 100% — Profile loaded ✓     │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<br/>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aniieee-p&color=00ff88&style=flat-square&label=👁+profile+views)](https://github.com/aniieee-p)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-00ff88?style=flat-square&logoColor=000)](https://www.linkedin.com/in/anisha-patel-642539272/)&nbsp;
-[![Email](https://img.shields.io/badge/◈_Email-00ff88?style=flat-square&logoColor=000)](mailto:anieesha47@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/◈_GitHub-00ff88?style=flat-square&logoColor=000)](https://github.com/aniieee-p)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=E2FF00&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+CareerNest+%F0%9F%9A%80;Open+Source+%7C+GirlScript+%7C+SSOC%274;Turning+ideas+into+shipped+products)](https://github.com/aniieee-p)
 
 </div>
 
 <br/>
 
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=aniieee-p&color=e2ff00&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aniieee-p)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-302b63?style=for-the-badge&logo=linkedin&logoColor=e2ff00)](https://www.linkedin.com/in/anisha-patel-642539272/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/EMAIL-302b63?style=for-the-badge&logo=gmail&logoColor=e2ff00)](mailto:anieesha47@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-302b63?style=for-the-badge&logo=github&logoColor=e2ff00)](https://github.com/aniieee-p)
+
+</div>
+
 ---
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
-## ⚡ `$ cat about_me.txt`
+## ⚡ About Me
 
-```bash
-Anisha@GLA:~$ whoami
+```javascript
+const anisha = {
+  university : "GLA University, Mathura",
+  batch      : "B.Tech CSE  [2023 → 2027]",
+  stack      : ["React", "Node", "Express", "MongoDB"],
+  currently  : "Building CareerNest 🚀",
+  learning   : ["System Design", "DSA", "TypeScript"],
+  fun_fact   : "I process satellite imagery 🛰️"
+}
 ```
-> I'm a **full-stack developer** who builds things that actually ship —  
-> not just local `localhost:3000` projects.
 
-```bash
-Anisha@GLA:~$ cat current_work
-```
-> 🔨 **CareerNest** — MERN job portal with real recruiter/seeker flows  
-> 🛰️ **SAR Imagery** — enhancing VV/VH satellite bands with Python  
-> 📚 **DSA deep dive** — grinding algorithms & system design  
-
-```bash
-Anisha@GLA:~$ cat fun_fact
-```
-> I've processed Sentinel-1 satellite imagery  
-> before most people finish their morning chai ☕
+- 🔭 **Flagship project** → CareerNest (MERN job portal)
+- 🌱 **Exploring** → Advanced DSA · System Design · SAR imaging
+- 🤝 **Contributing** → GirlScript SoC · SSOC'4 · Girls Leading Tech
+- 💬 **Talk to me about** → React, open source, MERN architecture
+- ⚡ **Wild fact** → processed Sentinel-1 VV/VH satellite bands with Python
 
 <br clear="right"/>
 
 ---
 
-## 🚀 `$ ls -la projects/`
+## 🚀 Projects That Ship
 
-<table>
+<table width="100%">
 <tr>
-<td width="49%" valign="top">
+<td width="50%" valign="top">
 
-```
-drwxr-xr-x  CareerNest/          [ACTIVE]
-```
-**MERN Stack Job Portal**
+<img src="https://img.shields.io/badge/★_FLAGSHIP-e2ff00?style=for-the-badge&labelColor=302b63&color=e2ff00&logoColor=0f0c29"/>
 
-A production-grade job platform — not a tutorial clone. Built with real role separation, real auth, real UX.
+### CareerNest
+> Full-stack job portal · MERN
 
-```js
-// Stack
-React + Vite + Tailwind CSS
-Redux + redux-persist
-Node.js + Express + MongoDB
-JWT Auth + Axios + Netlify
-```
+Role-based platform for **recruiters** and **job seekers** — not a tutorial, a real product.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **What makes it real:**
-- 🔐 JWT-based role auth → recruiter vs seeker
-- 📋 Recruiters: post, manage, track applicants
-- 🔍 Custom hooks: `useGetAllJobs` · `useGetCompanyById`
-- 🎨 Emerald/teal system · responsive navbar · custom favicon
-- ☁️ Live on Netlify via production dist
+- 🔐 JWT auth · role-based dashboards
+- 📋 Recruiter portal + candidate search
+- ⚙️ Custom hooks · redux-persist
+- ☁️ Live on Netlify
 
-[![](https://img.shields.io/badge/▶_View_Repo-00ff88?style=flat-square)](https://github.com/aniieee-p/CareerNest)
-
-</td>
-<td width="49%" valign="top">
-
-```
-drwxr-xr-x  pokemon-explorer/    [SHIPPED]
-```
-**Vanilla JS Pokédex**
-
-Pokédex with type/XP filtering, search & load-more — no framework. Pure DOM precision.
-
-```js
-// Stack
-HTML5 + CSS3
-Vanilla JavaScript
-PokéAPI
-```
-
-**What makes it real:**
-- ⚡ Type filter + XP range slider
-- 🔍 Live search by name
-- 📦 Load-more (no full reload)
-- 🎯 Zero dependencies — just raw JS
-
-[![](https://img.shields.io/badge/▶_View_Repo-00ff88?style=flat-square)](https://github.com/aniieee-p/pokemon-generator)
+[![View Repo](https://img.shields.io/badge/→_View_Repo-e2ff00?style=flat-square&logo=github&logoColor=0f0c29)](https://github.com/aniieee-p/CareerNest)
 
 </td>
-</tr>
-<tr>
-<td width="49%" valign="top">
+<td width="50%" valign="top">
 
-```
-drwxr-xr-x  sar-enhancer/        [RESEARCH]
-```
-**SAR Satellite Image Processor**
+<img src="https://img.shields.io/badge/OPEN_SOURCE-c8c8ff?style=for-the-badge&labelColor=302b63&color=c8c8ff"/>
 
-Processes raw Sentinel-1 VV & VH band imagery — histogram equalization, band compositing, visual output.
+### Pokémon Explorer
+> Filter app · Vanilla JS
 
-```python
-# Stack
-Python · Pillow · NumPy
-Sentinel-1 SAR Data
-```
+Pokédex with type/XP filtering, search, and load-more — zero frameworks, pure DOM mastery.
 
-**What makes it real:**
-- 🛰️ VV + VH band-specific processing
-- 📊 Histogram equalization pipeline
-- 🖼️ Enhanced composite output
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</td>
-<td width="49%" valign="top">
+**Highlights:**
+- 🔍 Multi-filter: type + XP + search
+- 📦 Load-more without reload
+- 🎯 Responsive, clean UI
 
-```
-drwxr-xr-x  ___next_project/     [COOKING]
-```
-**Always in the lab...**
+[![View Repo](https://img.shields.io/badge/→_View_Repo-c8c8ff?style=flat-square&logo=github&logoColor=0f0c29)](https://github.com/aniieee-p/pokemon-generator)
 
-```bash
-$ git status
-# On branch: main
-# Changes staged:
-#   → new ideas
-#   → better code
-#   → more shipped products
-```
+<br/>
 
-[![](https://img.shields.io/badge/Follow_for_updates-00ff88?style=flat-square)](https://github.com/aniieee-p)
+<img src="https://img.shields.io/badge/RESEARCH-7fffd4?style=for-the-badge&labelColor=302b63&color=7fffd4"/>
+
+### SAR Image Enhancer
+> Python · Satellite Imagery
+
+Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </td>
 </tr>
@@ -165,128 +122,111 @@ $ git status
 
 ---
 
-## 🧠 `$ cat tech_stack.json`
-
-```json
-{
-  "frontend"  : ["React", "Vite", "Tailwind CSS", "Redux", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
-  "backend"   : ["Node.js", "Express.js", "REST APIs"],
-  "database"  : ["MongoDB", "MySQL"],
-  "languages" : ["JavaScript", "Python", "Java", "C"],
-  "tools"     : ["Git", "GitHub", "Postman", "VS Code", "Netlify", "Figma"],
-  "currently" : ["System Design", "Advanced DSA", "TypeScript"]
-}
-```
+## 🛠️ Arsenal
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff88)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff88)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff88)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=00ff88)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=00ff88)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00ff88)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=00ff88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff88)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff88)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00ff88)
-![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00ff88)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=00ff88)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00ff88)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ff88)
+**— Frontend —**
+
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**— Backend & DB —**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+
+**— Languages —**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+
+**— Tools —**
+
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 `$ grep -r "experience" ./journey/`
-
-```
-./journey/girls_leading_tech.log       [2023-07 → PRESENT]  Member
-./journey/the_angaar_batch.log         [2025-01 → PRESENT]  Technical Researcher
-./journey/ssoc4_reskill.log            [2025-05 → PRESENT]  Open Source Contributor
-./journey/w3grads.log                  [2025-06 → PRESENT]  Mentee
-./journey/girlscript_soc25.log         [2025]               Campus Ambassador
-```
-
----
-
-## 🏅 `$ cat certifications.txt`
-
-```
-[✓] Learning Data Analytics 1 & 2  ──────────  LinkedIn Learning
-[✓] Codify Rumble · BitByBit · Blockathon  ───  Cognizance, IIT Roorkee
-[✓] Google Cloud Skills Boost  ───────────────  Skill Badge Achiever
-```
-
----
-
-## 📊 `$ git log --all --graph`
+## 🌍 My Journey
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=aaffcc&ring_color=00ff88&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=aaffcc&dates=555&currStreakNum=00ff88&sideNums=aaffcc"/>
-
-</div>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=aaffcc"/>
+| Year | Role | Program |
+|------|------|---------|
+| 2023 → now | 👩‍💻 Member | Girls Leading Tech |
+| 2025 → now | 🔬 Technical Researcher | The Angaar Batch |
+| 2025 → now | 🚀 Open Source Contributor | SSOC'4 by Reskill |
+| 2025 → now | 🎓 Mentee | W3grads |
+| 2025 | 🌐 Campus Ambassador | GirlScript Summer of Code |
 
 </div>
 
 ---
 
-## 📈 `$ ./activity_graph.sh`
+## 🏅 Certifications & Wins
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=003320&hide_border=true"/>
+![](https://img.shields.io/badge/✓_Data_Analytics_1_%26_2-302b63?style=for-the-badge&logoColor=e2ff00&labelColor=302b63&color=e2ff00)
+![](https://img.shields.io/badge/✓_IIT_Roorkee_Cognizance-302b63?style=for-the-badge&color=c8c8ff)
+![](https://img.shields.io/badge/☁️_Google_Cloud_Skill_Badges-302b63?style=for-the-badge&logo=googlecloud&logoColor=7fffd4&color=7fffd4)
 
 </div>
 
 ---
 
-## 🏆 `$ trophy --theme=matrix`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aniieee-p&theme=matrix&no-frame=true&row=1&column=6&margin-w=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&theme=tokyonight&hide_border=true&title_color=e2ff00&icon_color=c8c8ff&text_color=ffffff&bg_color=0f0c29"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&theme=tokyonight&hide_border=true&background=0f0c29&ring=e2ff00&fire=c8c8ff&currStreakLabel=e2ff00"/>
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=e2ff00&text_color=ffffff&bg_color=0f0c29"/>
 </div>
 
 ---
 
-## 🐍 `$ ./snake.sh --dark`
+## 📈 Activity
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0f0c29&color=e2ff00&line=c8c8ff&point=7fffd4&hide_border=true&area=true&area_color=302b63"/>
+</div>
 
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aniieee-p&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/aniieee-p/aniieee-p/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
 
 <div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│   Anisha@GLA:~$ echo "Code with love, build with joy."        │
-│   > Code with love, build with joy.                           │
-│                                                                │
-│   Anisha@GLA:~$ █                                             │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
-
-*Thanks for visiting — don't forget to leave a ⭐ on something you liked!*
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,40:001a0e,100:000000&section=footer&fontColor=00ff88"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&section=footer&text=Let's%20build%20something%20awesome&fontColor=e2ff00&fontSize=22&fontAlignY=65&animation=fadeIn"/>
 </div>
