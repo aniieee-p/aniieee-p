@@ -235,13 +235,13 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=06b6d4&icon_color=7dd3fc&text_color=e0f7ff&bg_color=0a0f2e"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0a0f2e&ring=06b6d4&fire=0891b2&currStreakLabel=06b6d4&sideLabels=7dd3fc&dates=0a4a8a"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniieee-p&show_icons=true&hide_border=true&title_color=06b6d4&icon_color=7dd3fc&text_color=7dd3fc&bg_color=0d2157&border_radius=10"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aniieee-p&hide_border=true&background=0d2157&ring=06b6d4&fire=0891b2&currStreakLabel=06b6d4&sideLabels=7dd3fc&dates=7dd3fc&stroke=0891b2&border_radius=10"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=06b6d4&text_color=e0f7ff&bg_color=0a0f2e"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=06b6d4&text_color=7dd3fc&bg_color=0d2157&border_radius=10"/>
 </div>
 
 ---
@@ -249,8 +249,22 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0a0f2e&color=06b6d4&line=0891b2&point=7dd3fc&hide_border=true&area=true&area_color=0d2157"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniieee-p&bg_color=0d2157&color=06b6d4&line=0891b2&point=7dd3fc&hide_border=true&area=true&area_color=0a1f4a"/>
 </div>
+
+---
+
+## ⏱️ Coding Activity
+
+> *Live stats powered by WakaTime — tracking every keystroke 👩‍💻*
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniieee_p&hide_border=true&title_color=06b6d4&text_color=7dd3fc&bg_color=0d2157&border_radius=10&layout=compact)](https://wakatime.com/@aniieee_p)
+
+</div>
+
+> ⚠️ **Setup:** Sign up at [wakatime.com](https://wakatime.com) → install [VS Code WakaTime extension](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → replace `aniieee_p` with your WakaTime username → delete this line!
 
 ---
 
