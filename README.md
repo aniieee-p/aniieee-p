@@ -64,29 +64,63 @@ const anisha = {
 
 <img src="https://img.shields.io/badge/★_FLAGSHIP-0d2157?style=for-the-badge&labelColor=0891b2&color=0d2157&logoColor=e0f7ff"/>
 
-### CareerNest
-> Full-stack job portal · MERN
+## 💼 Featured Project (Flagship)
 
-Role-based platform for **recruiters** and **job seekers** — not a tutorial, a real product.
+### 🌟 CareerNest – Smart AI Job Portal (MERN + SaaS Ready)
 
-![React](https://img.shields.io/badge/React-0d2157?style=flat-square&logo=react&logoColor=06b6d4)
-![Vite](https://img.shields.io/badge/Vite-0a0f2e?style=flat-square&logo=vite&logoColor=7dd3fc)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a4a8a?style=flat-square&logo=mongodb&logoColor=e0f7ff)
-![Redux](https://img.shields.io/badge/Redux-0d2157?style=flat-square&logo=redux&logoColor=06b6d4)
-![Tailwind](https://img.shields.io/badge/Tailwind-0891b2?style=flat-square&logo=tailwindcss&logoColor=e0f7ff)
+> **Flagship Project** — A next-generation recruitment platform connecting job seekers with recruiters using AI automation, analytics, and modern UX.
 
-**What makes it real:**
-- 🔐 JWT auth · role-based dashboards
-- 📋 Recruiter portal + candidate search
-- ⚙️ Custom hooks · redux-persist
-- ☁️ Live on Netlify
+- 🔐 Secure JWT Authentication + Google OAuth Login  
+- 👩‍💼 Separate Dashboards for Candidates & Recruiters  
+- 📄 One-click Job Applications + Resume Upload  
+- 🏢 Recruiter Job Posting & Applicant Management  
+- 🤖 AI Career Assistant powered by Google Gemini  
+- 📊 PulseIQ Analytics Integration  
+- ☁️ Cloudinary Resume / Media Storage  
+- 📧 Automated Email Notifications  
+- 🌙 Premium Dark Mode UI + Fully Responsive Design  
+- ⚡ Optimized MERN Architecture for Scalability  
 
-[![View Repo](https://img.shields.io/badge/→_View_Repo-0891b2?style=flat-square&logo=github&logoColor=e0f7ff)](https://github.com/aniieee-p/CareerNest)
+🔗 **Live Demo:** https://careernest-anisha.netlify.app/  
+🔗 **Backend API:** https://careernest-y43o.onrender.com  
+🔗 **GitHub:** https://github.com/aniieee-p/CareerNest
 
-</td>
-<td width="50%" valign="top">
+---
 
-<img src="https://img.shields.io/badge/OPEN_SOURCE-06b6d4?style=for-the-badge&labelColor=0d2157&color=06b6d4"/>
+### 🚀 Why CareerNest Stands Out
+
+✨ Not just another job portal — CareerNest combines:
+
+- AI + Recruitment Tech  
+- Real-world SaaS Architecture  
+- Recruiter Workflow Automation  
+- Modern Full Stack Engineering  
+- Analytics Driven Decisions  
+- Scalable Product Thinking  
+
+---
+
+### 🛠 Tech Stack Used
+
+**Frontend:** React.js, Vite, Tailwind CSS, Redux Toolkit  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB Atlas  
+**Authentication:** JWT + Google OAuth  
+**Services:** Cloudinary, Nodemailer, Gemini AI, PulseIQ  
+**Deployment:** Netlify + Render
+
+---
+
+### 📈 Future Roadmap
+
+- 🎯 AI Resume Score Analyzer  
+- 🎥 Built-in Video Interviews  
+- 📅 Interview Scheduling System  
+- 📱 Android / iOS App  
+- 🌍 Multi-language Global Expansion  
+- 💳 Premium Recruiter Subscription Model
+
+---
 
 ### Pokémon Explorer
 > Filter app · Vanilla JS
