@@ -273,7 +273,7 @@ const anisha = {
 
 </div>
 
-> ⚠️ **Setup:** Sign up at [wakatime.com](https://wakatime.com) → install [VS Code WakaTime extension](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) → replace `aniieee_p` with your WakaTime username → delete this line!
+itemName=WakaTime.vscode-wakatime) → replace `anishapatel120` with your WakaTime username → delete this line!
 
 ---
 
