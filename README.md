@@ -269,11 +269,9 @@ const anisha = {
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aniieee-p&hide_border=true&title_color=06b6d4&text_color=e0f7ff&bg_color=0d2157&border_radius=10&layout=compact)](https://wakatime.com/@aniieee-p)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=anishapatel120&hide_border=true&title_color=06b6d4&text_color=e0f7ff&bg_color=0d2157&border_radius=10&layout=compact)](https://wakatime.com/@anishapatel120)
 
 </div>
-
-itemName=WakaTime.vscode-wakatime) → replace `anishapatel120` with your WakaTime username → delete this line!
 
 ---
 
