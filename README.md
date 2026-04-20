@@ -99,7 +99,7 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anisha-patel-642539272/)  
-📧 Email: *anieesha47@gmail.com*
+📧 Email: *anishap6399@gmail.com*
 
 ---
 
