@@ -23,7 +23,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d2157?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/in/anisha-patel-642539272/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/EMAIL-0a4a8a?style=for-the-badge&logo=gmail&logoColor=e0f7ff)](mailto:anieesha47@gmail.com)
+[![Gmail](https://img.shields.io/badge/EMAIL-0a4a8a?style=for-the-badge&logo=gmail&logoColor=e0f7ff)](mailto:anisha.patel_cs23@gla.ac.in)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-0d2157?style=for-the-badge&logo=github&logoColor=06b6d4)](https://github.com/aniieee-p)
 
@@ -41,16 +41,16 @@ const anisha = {
   batch      : "B.Tech CSE  [2023 → 2027]",
   stack      : ["React", "Node", "Express", "MongoDB"],
   currently  : "Building full-stack products 🚀",
-  learning   : ["System Design", "DSA", "TypeScript"],
-  fun_fact   : "I process satellite imagery 🛰️"
+  learning   : ["System Design", "DSA", "AWS"],
+  fun_fact   : "I debug at 2am and it works 🌙"
 }
 ```
 
-- 🔭 **Flagship project** → CareerNest (MERN job portal)
-- 🌱 **Exploring** → Advanced DSA · System Design · SAR imaging
+- 🔭 **Flagship project** → CareerNest (MERN AI job portal)
+- 🌱 **Exploring** → Advanced DSA · System Design · Cloud (GCP & AWS)
 - 🤝 **Contributing** → GirlScript SoC · SSOC'4 · Girls Leading Tech
 - 💬 **Talk to me about** → React, open source, MERN architecture
-- ⚡ **Wild fact** → processed Sentinel-1 VV/VH satellite bands with Python
+- ⚡ **Wild fact** → built a cloud photo manager with AWS S3 from scratch
 
 <br clear="right"/>
 
@@ -64,91 +64,55 @@ const anisha = {
 
 <img src="https://img.shields.io/badge/★_FLAGSHIP-0d2157?style=for-the-badge&labelColor=0891b2&color=0d2157&logoColor=e0f7ff"/>
 
-## 💼 Featured Project (Flagship)
+### 💼 CareerNest – AI-Powered Job Portal
 
-### 🌟 CareerNest – Smart AI Job Portal (MERN + SaaS Ready)
+> Full-stack MERN job portal connecting job seekers and recruiters with AI-powered career features and a modern responsive UI.
 
-> **Flagship Project** — A next-generation recruitment platform connecting job seekers with recruiters using AI automation, analytics, and modern UX.
+- 🔐 JWT Authentication + Google OAuth (RBAC)
+- 👩‍💼 Separate Dashboards for Candidates & Recruiters
+- 📄 Job Applications + Resume Upload via Cloudinary
+- 🏢 Recruiter Job Posting & Applicant Management
+- 🤖 AI Career Recommendations (Google Gemini)
+- 🔍 Search, Filters & Job Analytics
+- 🌙 Responsive Dark Mode UI
 
-- 🔐 Secure JWT Authentication + Google OAuth Login  
-- 👩‍💼 Separate Dashboards for Candidates & Recruiters  
-- 📄 One-click Job Applications + Resume Upload  
-- 🏢 Recruiter Job Posting & Applicant Management  
-- 🤖 AI Career Assistant powered by Google Gemini  
-- 📊 PulseIQ Analytics Integration  
-- ☁️ Cloudinary Resume / Media Storage  
-- 📧 Automated Email Notifications  
-- 🌙 Premium Dark Mode UI + Fully Responsive Design  
-- ⚡ Optimized MERN Architecture for Scalability  
+**Stack:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS · JWT · Gemini · Cloudinary  
+**Deploy:** Netlify + Render
 
-🔗 **Live Demo:** https://careernest-anisha.netlify.app/  
-🔗 **Backend API:** https://careernest-y43o.onrender.com  
-🔗 **GitHub:** https://github.com/aniieee-p/CareerNest
+🔗 [**Live Demo**](https://careernest-anisha.netlify.app/) &nbsp;|&nbsp; 🔗 [**GitHub**](https://github.com/aniieee-p/CareerNest)
 
 ---
 
-### 🚀 Why CareerNest Stands Out
+### ☁️ PhotoHub – Cloud Photo Management Platform
 
-✨ Not just another job portal — CareerNest combines:
+> Cloud-based image storage platform with AWS S3 integration and user-specific galleries.
 
-- AI + Recruitment Tech  
-- Real-world SaaS Architecture  
-- Recruiter Workflow Automation  
-- Modern Full Stack Engineering  
-- Analytics Driven Decisions  
-- Scalable Product Thinking  
+- 🔐 Secure JWT Authentication
+- 🏷️ Tagging, Search Filters, Favorites & Recovery
+- 📦 AWS S3 for image storage
+- 👤 User-specific gallery management
 
----
+**Stack:** React.js · Node.js · MongoDB · AWS S3 · JWT
 
-### 🛠 Tech Stack Used
-
-**Frontend:** React.js, Vite, Tailwind CSS, Redux Toolkit  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB Atlas  
-**Authentication:** JWT + Google OAuth  
-**Services:** Cloudinary, Nodemailer, Gemini AI, PulseIQ  
-**Deployment:** Netlify + Render
+🔗 [**GitHub**](https://github.com/aniieee-p/Photo_Hub)
 
 ---
 
-### 📈 Future Roadmap
+### 🎓 E-Learning Platform – LMS
 
-- 🎯 AI Resume Score Analyzer  
-- 🎥 Built-in Video Interviews  
-- 📅 Interview Scheduling System  
-- 📱 Android / iOS App  
-- 🌍 Multi-language Global Expansion  
-- 💳 Premium Recruiter Subscription Model
+> Learning Management System with course management and session-based auth.
+
+- 📚 CRUD for courses + learner modules
+- 🔑 Session-based login with flash messaging
+- 📱 Responsive UI
+
+**Stack:** Node.js · Express.js · MongoDB · EJS
+
+🔗 [**GitHub**](https://github.com/aniieee-p/E_Learning)
 
 ---
 
-### Pokémon Explorer
-> Filter app · Vanilla JS
 
-Pokédex with type/XP filtering, search, and load-more — zero frameworks, pure DOM mastery.
-
-![HTML5](https://img.shields.io/badge/HTML5-0a0f2e?style=flat-square&logo=html5&logoColor=06b6d4)
-![CSS3](https://img.shields.io/badge/CSS3-0d2157?style=flat-square&logo=css3&logoColor=7dd3fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a4a8a?style=flat-square&logo=javascript&logoColor=e0f7ff)
-
-**Highlights:**
-- 🔍 Multi-filter: type + XP + search
-- 📦 Load-more without reload
-- 🎯 Responsive, clean UI
-
-[![View Repo](https://img.shields.io/badge/→_View_Repo-0d2157?style=flat-square&logo=github&logoColor=06b6d4)](https://github.com/aniieee-p/pokemon-generator)
-
-<br/>
-
-<img src="https://img.shields.io/badge/RESEARCH-0a4a8a?style=for-the-badge&labelColor=0891b2&color=0a4a8a"/>
-
-### SAR Image Enhancer
-> Python · Satellite Imagery
-
-Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
-
-![Python](https://img.shields.io/badge/Python-0d2157?style=flat-square&logo=python&logoColor=06b6d4)
-![NumPy](https://img.shields.io/badge/NumPy-0a4a8a?style=flat-square&logo=numpy&logoColor=e0f7ff)
 
 </td>
 </tr>
@@ -180,8 +144,8 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 **— Languages —**
 
 ![Python](https://img.shields.io/badge/Python-0a0f2e?style=for-the-badge&logo=python&logoColor=06b6d4)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d2157?style=for-the-badge&logo=typescript&logoColor=7dd3fc)
 ![Java](https://img.shields.io/badge/Java-0a4a8a?style=for-the-badge&logo=openjdk&logoColor=e0f7ff)
+
 ![SQL](https://img.shields.io/badge/SQL-0891b2?style=for-the-badge&logo=postgresql&logoColor=e0f7ff)
 ![C](https://img.shields.io/badge/C-0a0f2e?style=for-the-badge&logo=c&logoColor=06b6d4)
 
@@ -190,11 +154,19 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ![Git](https://img.shields.io/badge/Git-0d2157?style=for-the-badge&logo=git&logoColor=06b6d4)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0f2e?style=for-the-badge&logo=github&logoColor=7dd3fc)
 ![Postman](https://img.shields.io/badge/Postman-0a4a8a?style=for-the-badge&logo=postman&logoColor=e0f7ff)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0891b2?style=for-the-badge&logo=amazons3&logoColor=e0f7ff)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0891b2?style=for-the-badge&logo=googlecloud&logoColor=e0f7ff)
 ![Netlify](https://img.shields.io/badge/Netlify-0d2157?style=for-the-badge&logo=netlify&logoColor=06b6d4)
 ![Render](https://img.shields.io/badge/Render-0a0f2e?style=for-the-badge&logo=render&logoColor=7dd3fc)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0a4a8a?style=for-the-badge&logo=visual-studio-code&logoColor=e0f7ff)
 ![Figma](https://img.shields.io/badge/Figma-0d2157?style=for-the-badge&logo=figma&logoColor=06b6d4)
+
+**— Concepts —**
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-0a0f2e?style=for-the-badge&logoColor=06b6d4)
+![JWT](https://img.shields.io/badge/JWT_Auth-0d2157?style=for-the-badge&logo=jsonwebtokens&logoColor=06b6d4)
+![OAuth](https://img.shields.io/badge/OAuth-0a4a8a?style=for-the-badge&logoColor=e0f7ff)
+![RBAC](https://img.shields.io/badge/RBAC-0891b2?style=for-the-badge&logoColor=e0f7ff)
 
 </div>
 
@@ -257,7 +229,7 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 ![](https://img.shields.io/badge/🥇_Winner-Hack_the_Web_24Hr_Challenge-e0f7ff?style=for-the-badge&labelColor=0891b2&color=e0f7ff)
 ![](https://img.shields.io/badge/✓_Data_Analytics_1_%26_2-7dd3fc?style=for-the-badge&logoColor=0a0f2e&labelColor=0d2157&color=7dd3fc)
 ![](https://img.shields.io/badge/✓_IIT_Roorkee_Cognizance_2025-0a4a8a?style=for-the-badge&color=0a4a8a&labelColor=0d2157)
-![](https://img.shields.io/badge/✓_Adobe_India_Hackathon-0891b2?style=for-the-badge&logo=adobe&logoColor=e0f7ff&color=0891b2&labelColor=0a0f2e)
+![](https://img.shields.io/badge/✓_Adobe_India_Hackathon_R1-0891b2?style=for-the-badge&logo=adobe&logoColor=e0f7ff&color=0891b2&labelColor=0a0f2e)
 ![](https://img.shields.io/badge/☁️_GCloud_Arcade_Novice_Milestone_1-7dd3fc?style=for-the-badge&logo=googlecloud&logoColor=0a0f2e&color=7dd3fc&labelColor=0d2157)
 ![](https://img.shields.io/badge/☁️_Google_Cloud_Skill_Badges-06b6d4?style=for-the-badge&logo=googlecloud&logoColor=e0f7ff&color=0a4a8a&labelColor=0d2157)
 
@@ -280,7 +252,6 @@ Processes **Sentinel-1 VV/VH** bands for improved visual analysis output.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniieee-p&langs_count=8&layout=compact&hide_border=true&title_color=06b6d4&text_color=e0f7ff&bg_color=0d2157&border_radius=10" alt="Top Languages" />
 
 </div>
-
 
 ---
 
@@ -343,7 +314,7 @@ Got an idea? Let's build it. 🌊
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d2157?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/in/anisha-patel-642539272/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-0a4a8a?style=for-the-badge&logo=gmail&logoColor=e0f7ff)](mailto:anieesha47@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-0a4a8a?style=for-the-badge&logo=gmail&logoColor=e0f7ff)](mailto:anisha.patel_cs23@gla.ac.in)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0891b2?style=for-the-badge&logo=github&logoColor=e0f7ff)](https://github.com/aniieee-p)
 
