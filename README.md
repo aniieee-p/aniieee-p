@@ -1,4 +1,4 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
++<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
      ANISHA PATEL · GitHub Profile README
      Vibe: Blue · Cyan · Teal · Gradient Dark · Vibrant
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -26,6 +26,8 @@
 [![Gmail](https://img.shields.io/badge/EMAIL-0a4a8a?style=for-the-badge&logo=gmail&logoColor=e0f7ff)](mailto:anisha.patel_cs23@gla.ac.in)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-0d2157?style=for-the-badge&logo=github&logoColor=06b6d4)](https://github.com/aniieee-p)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://anisha-patel-portfolio.vercel.app/)
 
 </div>
 
@@ -40,6 +42,7 @@ const anisha = {
   university : "GLA University, Mathura",
   batch      : "B.Tech CSE  [2023 → 2027]",
   stack      : ["React", "Node", "Express", "MongoDB"],
+  portfolio  : "https://anisha-patel-portfolio.vercel.app/",
   currently  : "Building full-stack products 🚀",
   learning   : ["System Design", "DSA", "AWS"],
   fun_fact   : "I debug at 2am and it works 🌙"
@@ -47,6 +50,7 @@ const anisha = {
 ```
 
 - 🔭 **Flagship project** → CareerNest (MERN AI job portal)
+- 🌐 **Portfolio** → https://anisha-patel-portfolio.vercel.app/
 - 🌱 **Exploring** → Advanced DSA · System Design · Cloud (GCP & AWS)
 - 🤝 **Contributing** → GirlScript SoC · SSOC'4 · Girls Leading Tech
 - 💬 **Talk to me about** → React, open source, MERN architecture
