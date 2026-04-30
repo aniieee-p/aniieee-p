@@ -60,7 +60,7 @@ const anisha = {
 
 ---
 
-## 🚀 Projects That Ship
+## 🚀 Production-Grade Projects
 
 <table width="100%">
 <tr>
@@ -83,10 +83,27 @@ const anisha = {
 **Stack:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS · JWT · Gemini · Cloudinary  
 **Deploy:** Netlify + Render
 
-🔗 [**Live Demo**](https://careernest-anisha.netlify.app/) &nbsp;|&nbsp; 🔗 [**GitHub**](https://github.com/aniieee-p/CareerNest)
+🔗 [**Live Demo**](https://careernest-anisha.netlify.app/) &nbsp;|&nbsp; 
+🔗 [**GitHub Repo**](https://github.com/aniieee-p/CareerNest)
 
 ---
+### ⚙️ CI/CD Pipeline – Production-Ready Node.js App
 
+> Production-grade Node.js application with fully automated CI/CD pipeline, containerization, and cloud deployment.
+
+- ⚡ Automated Testing with **Jest + Supertest**
+- 🔄 CI/CD pipeline using **GitHub Actions**
+- 🐳 Docker containerization & image builds
+- 📊 Code Coverage tracking with quality gates
+- ✅ ESLint for code quality enforcement
+- 🚀 Automated deployment on Vercel
+- 🔍 Health check endpoints & API monitoring
+
+**Stack:** Node.js · Express.js · Jest · Docker · GitHub Actions · Vercel  
+**Deploy:** Vercel  
+
+🔗 [**Live Demo**](https://ci-cd-pipeline-project.vercel.app)  
+🔗 [**GitHub**](https://github.com/aniieee-p/CI-CD-Pipeline-Project)
 ### ☁️ PhotoHub – Cloud Photo Management Platform
 
 > Cloud-based image storage platform with AWS S3 integration and user-specific galleries.
@@ -98,7 +115,7 @@ const anisha = {
 
 **Stack:** React.js · Node.js · MongoDB · AWS S3 · JWT
 
-🔗 [**GitHub**](https://github.com/aniieee-p/Photo_Hub)
+🔗 [**GitHub Repo**](https://github.com/aniieee-p/Photo_Hub)
 
 ---
 
@@ -112,7 +129,7 @@ const anisha = {
 
 **Stack:** Node.js · Express.js · MongoDB · EJS
 
-🔗 [**GitHub**](https://github.com/aniieee-p/E_Learning)
+🔗 [**GitHub Repo**](https://github.com/aniieee-p/E_Learning)
 
 ---
 
