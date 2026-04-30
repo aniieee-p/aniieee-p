@@ -103,7 +103,7 @@ const anisha = {
 **Deploy:** Vercel  
 
 🔗 [**Live Demo**](https://ci-cd-pipeline-project.vercel.app)  &nbsp;|&nbsp;
-🔗 [**GitHub**](https://github.com/aniieee-p/CI-CD-Pipeline-Project)
+🔗 [**GitHub Repo**](https://github.com/aniieee-p/CI-CD-Pipeline-Project)
 ### ☁️ PhotoHub – Cloud Photo Management Platform
 
 > Cloud-based image storage platform with AWS S3 integration and user-specific galleries.
