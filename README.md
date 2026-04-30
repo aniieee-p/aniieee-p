@@ -299,8 +299,8 @@ const anisha = {
 
 <div align="center">
 
-> *"The greater he own, the better he flown"* 🫠🩵
-> — buoyancy · and a dev philosophy
+> *“The more you build, the more you grow.”* 🫠🩵
+> - a dev philosophy
 
 </div>
 
