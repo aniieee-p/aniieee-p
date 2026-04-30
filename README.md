@@ -43,8 +43,8 @@ const anisha = {
   batch      : "B.Tech CSE  [2023 → 2027]",
   stack      : ["React", "Node", "Express", "MongoDB"],
   portfolio  : "https://anisha-patel-portfolio.vercel.app/",
-  currently  : "Building full-stack products 🚀",
-  learning   : ["System Design", "DSA", "AWS"],
+  currently  : "Building full-stack products & exploring scalable cloud-native systems 🚀",
+  learning   : ["System Design", "DSA", "AWS", "Docker", "Kubernetes", "Linux", "CI/CD"],
   fun_fact   : "I debug at 2am and it works 🌙"
 }
 ```
