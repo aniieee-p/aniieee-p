@@ -102,7 +102,7 @@ const anisha = {
 **Stack:** Node.js · Express.js · Jest · Docker · GitHub Actions · Vercel  
 **Deploy:** Vercel  
 
-🔗 [**Live Demo**](https://ci-cd-pipeline-project.vercel.app)  
+🔗 [**Live Demo**](https://ci-cd-pipeline-project.vercel.app)  &nbsp;|&nbsp;
 🔗 [**GitHub**](https://github.com/aniieee-p/CI-CD-Pipeline-Project)
 ### ☁️ PhotoHub – Cloud Photo Management Platform
 
@@ -115,7 +115,7 @@ const anisha = {
 
 **Stack:** React.js · Node.js · MongoDB · AWS S3 · JWT
 
-🔗 [**GitHub Repo**](https://github.com/aniieee-p/Photo_Hub)
+🔗 [**GitHub Repo**](https://github.com/aniieee-p/Photo_Hub) 
 
 ---
 
