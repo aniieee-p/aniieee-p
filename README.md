@@ -84,7 +84,7 @@ const anisha = {
 **Deploy:** Netlify + Render
 
 🔗 [**Live Demo**](https://careernest-anisha.netlify.app/) &nbsp;|&nbsp; 
-🔗 [**GitHub Repo**](https://github.com/aniieee-p/CareerNest)
+🔗 [**GitHub Repo**](https://github.com/aniieee-p/CareerNest-Project)
 
 ---
 ### ⚙️ CI/CD Pipeline – Production-Ready Node.js App
